@@ -1,3 +1,6 @@
+/**
+ * utils工具类，采用外观模式实现
+ */
 var utils = {
   addEventListener: function (el, ev, handler) {
     if (el.addEventListener) {

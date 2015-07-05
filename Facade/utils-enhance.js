@@ -1,3 +1,6 @@
+/**
+ * 增强版的utils，减少了重复检测
+ */
 var utils = {
   addEventListener: null,
   removeEventListener: null
